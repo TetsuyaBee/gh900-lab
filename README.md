@@ -5,4 +5,4 @@
 - ブランチ/コミット/PR を体験する予定
 - Issue でタスク管理する
 - Actions を1つ動かす
-Closes #1
+Test
